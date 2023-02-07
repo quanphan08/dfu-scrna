@@ -1,4 +1,4 @@
-# dfu-scrna
+# scRNA-seq of DFU and NDFU samples
 Transcriptional heterogeneity in human diabetic foot wounds - Code
 Teresa Sandoval-Schaefer*, Quan M Phan*, et al. 2023
 Data can be found on GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223964
