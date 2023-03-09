@@ -5,3 +5,5 @@ Data can be found on GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE
 
 Single-cell RNA sequencing of DFU and NDFU samples using 10X Genomics v2 3' gene expression kit.  
 The following iPython notebooks were used to analyze and create plots for figures in this manuscript  
+Data for Figure 1 to 4 were analyzed in Python using scanpy
+CellChat analysis for Figure 5 was done in R
